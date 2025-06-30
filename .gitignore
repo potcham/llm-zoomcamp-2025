@@ -1,5 +1,6 @@
 llmzoom
-
+qdrant_storage
+02-vector/qdrant_storage
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
